@@ -1,1 +1,7 @@
-
+projeto/
+│── index.html
+│── style.css
+│── script.js
+└── img/
+    ├── theo1.jpg
+    └── theo2.jpg
